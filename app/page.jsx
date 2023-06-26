@@ -4,7 +4,7 @@ import styles from "./page.module.css";
 export default function Home() {
   return (
     <>
-      <h1> Hola Carlos Alvarado </h1>
+      <h1> Hola Carlos Javier Alvarado Martinez </h1>
     </>
   );
 }
